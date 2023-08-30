@@ -1,3 +1,5 @@
+# mention
+Hey my name is J and I am a college student this is however not my code
 # whodat.py
 A tool for doing bulk Whois and GeoIP lookups.
 Includes looking up specific data center locations for AWS and applications for Microsoft
